@@ -58,6 +58,7 @@ Sign in as the user with administrative access To sign in with your IAM Identity
 Services Overview: • Explore all the available services in AWS platform.
 
 # Output:
-Screenshot 2025-11-14 135514 Screenshot 2025-11-14 135547
+#Screenshot 2025-11-14 135514 
+#Screenshot 2025-11-14 135547
 # Result:
 Thus an account was created in AWS platform and all the services were explored.
